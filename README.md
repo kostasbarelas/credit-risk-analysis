@@ -8,7 +8,7 @@ By bridging the gap between **quantitative financial analysis** and **data scien
 ## 🛠️ Technologies & Tools
 * **Language:** Python 3
 * **Data Manipulation & Cleaning:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
+* **Data Visualization:** Matplotlib
 * **Environment:** Jupyter Notebook / Python Scripts
 
 ## 🔍 Methodology
